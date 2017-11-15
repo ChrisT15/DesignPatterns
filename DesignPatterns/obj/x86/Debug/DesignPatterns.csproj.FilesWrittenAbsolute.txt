@@ -1,0 +1,5 @@
+/home/christian/programs/cs/DesignPatterns/DesignPatterns/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/christian/programs/cs/DesignPatterns/DesignPatterns/bin/Debug/DesignPatterns.exe.mdb
+/home/christian/programs/cs/DesignPatterns/DesignPatterns/bin/Debug/DesignPatterns.exe
+/home/christian/programs/cs/DesignPatterns/DesignPatterns/obj/x86/Debug/DesignPatterns.exe
+/home/christian/programs/cs/DesignPatterns/DesignPatterns/obj/x86/Debug/DesignPatterns.exe.mdb
